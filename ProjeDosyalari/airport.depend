@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639411337 source:c:\users\berk\desktop\codes\airport\main.c
+	<stdio.h>
+	<stdlib.h>
+
